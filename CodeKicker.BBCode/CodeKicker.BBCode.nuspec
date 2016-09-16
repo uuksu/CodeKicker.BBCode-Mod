@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/Pablissimo/CodeKicker.BBCode-Mod/blob/master/LICENCE</licenseUrl>
+    <projectUrl>https://github.com/Pablissimo/CodeKicker.BBCode-Mod</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Latest version released to CodeKicker.BBCode-Mod repository.</releaseNotes>
+    <copyright>The MIT License (MIT)</copyright>
+    <tags>bbcode codekicker parser</tags>
+  </metadata>
+</package>
